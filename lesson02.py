@@ -1,0 +1,5 @@
+print('formatted strings')
+name = ('Tannu Zaheer')
+print(name.upper())
+print(name.find('T'))
+print(name.replace('Zaheer','Sheriff'))
